@@ -8,4 +8,4 @@
 * Polyphonic Choke-Groups
 * Full kit export & import (.zip archive format)
 
-  [screenshot](screenshot_MTS.png)
+  ![sscreenshot](screenshot_MTS.png)
