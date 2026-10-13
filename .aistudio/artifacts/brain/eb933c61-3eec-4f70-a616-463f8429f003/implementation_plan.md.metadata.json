@@ -1,0 +1,6 @@
+{
+  "summary": "Complete architecture and implementation plan for the 3x4 MIDI Sample Player (\"MPC-12\") Android application, incorporating empty default slots, user sample loading, kit export/import (zip archive with sounds, configs, and MIDI mappings), low-latency SoundPool playback, choke groups, MIDI-Learn, device selection, and live telemetry status line.",
+  "updatedAt": "2026-10-13T10:19:06.669253756Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

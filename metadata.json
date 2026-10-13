@@ -1,0 +1,6 @@
+{
+  "name": "Midi-Triggered Sampler",
+  "description": "Low-latency 3x4 pad audio sample player with customizable sound slots, MIDI-learn, choke groups, and kit export/import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="export_kits" path="kits/" />
+    <files-path name="internal_samples" path="samples/" />
+</paths>

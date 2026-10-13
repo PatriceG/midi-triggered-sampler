@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Midi-Triggered Sampler</string>
+    <string name="title_midi_learn">MIDI Learn</string>
+    <string name="title_panic">Panic</string>
+    <string name="title_kit_menu">Kit</string>
+    <string name="action_export_kit">Export Kit</string>
+    <string name="action_import_kit">Import Kit</string>
+    <string name="action_clear_all">Clear All Pads</string>
+    <string name="status_no_device">No MIDI Device</string>
+    <string name="status_listening">Tap a pad to assign MIDI note…</string>
+    <string name="status_last_note">Last Note</string>
+    <string name="pad_empty">Empty Slot</string>
+    <string name="slot_config_title">Pad Configuration</string>
+    <string name="btn_load_sample">Choose Audio File</string>
+    <string name="btn_clear_slot">Clear Slot</string>
+    <string name="label_pad_name">Pad Label</string>
+    <string name="label_choke_group">Choke Group</string>
+    <string name="label_midi_note">Assigned MIDI Note</string>
+    <string name="label_volume">Volume</string>
+    <string name="label_pitch">Playback Rate / Pitch</string>
+</resources>
